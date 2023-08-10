@@ -1,0 +1,1933 @@
+# Reading pref.tcl
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:12:24 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 14:12:24 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:12:29 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(48): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(49): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(50): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(51): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(52): Integer literal 0 is not of type ieee.std_logic_1164.STD_LOGIC.
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(93): (vcom-1136) Unknown identifier "ioAR".
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(96): (vcom-1035) Formal port "iCLK" has OPEN or no actual associated with it.
+# ** Note: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(120): VHDL Compiler exiting
+# End time: 14:12:29 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 7, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:12:46 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(93): (vcom-1136) Unknown identifier "ioAR".
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(96): (vcom-1035) Formal port "iCLK" has OPEN or no actual associated with it.
+# ** Note: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(120): VHDL Compiler exiting
+# End time: 14:12:46 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:13:01 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# ** Error: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(96): (vcom-1035) Formal port "iCLK" has OPEN or no actual associated with it.
+# ** Note: D:/PR/VHDLP1/code/sim/controlUnitTB.vhd(120): VHDL Compiler exiting
+# End time: 14:13:01 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:13:12 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# End time: 14:13:12 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:18:29 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(47): near "=": syntax error
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(69): near "when": (vcom-1576) expecting END.
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(76): near "WHEN": (vcom-1576) expecting END.
+# End time: 14:18:29 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:19:08 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 14:19:08 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:29:54 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 14:29:54 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:29:56 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 14:29:56 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:29:59 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(88): near "'": syntax error
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(107): near "when": (vcom-1576) expecting END.
+# End time: 14:29:59 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:31:17 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 14:31:17 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 14:31:21 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# End time: 14:31:21 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.controlunittb
+# vsim -gui work.controlunittb 
+# Start time: 14:32:26 on Aug 06,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.controlunittb(bhv)
+# Loading work.memory(bhv)
+# Loading work.controlunit(bhv)
+# Loading work.programcounter(bhv)
+# Loading work.alu(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position end  sim:/controlunittb/Adress
+add wave -position end  sim:/controlunittb/AdressLatch
+add wave -position end  sim:/controlunittb/ALUALReg
+add wave -position end  sim:/controlunittb/ALUAReg
+add wave -position end  sim:/controlunittb/clock
+add wave -position end  sim:/controlunittb/cpuBus
+add wave -position end  sim:/controlunittb/inRam
+add wave -position end  sim:/controlunittb/latch
+add wave -position end  sim:/controlunittb/LDA
+add wave -position end  sim:/controlunittb/LDB
+add wave -position end  sim:/controlunittb/MemAdressLatch
+add wave -position end  sim:/controlunittb/MemoryBusOut
+add wave -position end  sim:/controlunittb/MemSave
+add wave -position end  sim:/controlunittb/OAL
+add wave -position end  sim:/controlunittb/oAR
+add wave -position end  sim:/controlunittb/oPC
+add wave -position end  sim:/controlunittb/Outp
+add wave -position end  sim:/controlunittb/OutputMem
+add wave -position end  sim:/controlunittb/outRam
+add wave -position end  sim:/controlunittb/outRamShort
+add wave -position end  sim:/controlunittb/PCBusOut
+add wave -position end  sim:/controlunittb/Ram
+add wave -position end  sim:/controlunittb/Reset
+add wave -position end  sim:/controlunittb/save
+add wave -position end  sim:/controlunittb/saveSigTest
+add wave -position end  sim:/controlunittb/SUB
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: 1paul  Hostname: DESKTOP-509JTUI  ProcessID: 20520
+#           Attempting to use alternate WLF file "./wlftsa02za".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftsa02za
+add wave -position end  sim:/controlunittb/alu/AReg
+run 75ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 25 ns  Iteration: 1  Instance: /controlunittb/cu
+add wave -position 26  sim:/controlunittb/cu/currentCommand
+add wave -position 27  sim:/controlunittb/cu/currentInst
+add wave -position 28  sim:/controlunittb/cu/instructionIn
+add wave -position 29  sim:/controlunittb/cu/MemAdressLatch
+add wave -position 30  sim:/controlunittb/cu/MEMIN
+add wave -position 31  sim:/controlunittb/cu/MemOut
+add wave -position 32  sim:/controlunittb/cu/oLDA
+add wave -position 33  sim:/controlunittb/cu/oLDB
+add wave -position 34  sim:/controlunittb/cu/oOAL
+add wave -position 35  sim:/controlunittb/cu/ooAR
+add wave -position 36  sim:/controlunittb/cu/oSUB
+add wave -position 37  sim:/controlunittb/cu/PCLatch
+add wave -position 38  sim:/controlunittb/cu/PCOut
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 25 ns  Iteration: 1  Instance: /controlunittb/cu
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:54:32 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(47): near "THEN": (vcom-1576) expecting ')'.
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(69): near "WHEN": (vcom-1576) expecting END.
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(86): near "when": (vcom-1576) expecting END.
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(103): near "WHEN": (vcom-1576) expecting END.
+# End time: 15:54:32 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:54:38 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 15:54:39 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+add wave -position 30  sim:/controlunittb/clock
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 15:58:52 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 15:58:52 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+run 75ns
+run 75ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:00:50 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:00:50 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:02:16 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:02:16 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:09:45 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:09:45 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:10:16 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 16:10:16 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:11:31 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 16:11:31 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:11:33 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:11:33 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/memoryTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:11:35 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/memoryTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memoryTestBench
+# -- Compiling architecture Bhv of memoryTestBench
+# -- Loading entity memory
+# End time: 16:11:35 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:11:36 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# End time: 16:11:36 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunittb(bhv)
+# Loading work.memory(bhv)
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:12:27 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:12:27 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:25:58 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:25:58 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:28:20 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:28:20 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f && run 75ns
+# Warning: Invalid arguments '&& run 75ns' to restart ignored.
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:29:04 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:29:04 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 25 ns  Iteration: 1  Instance: /controlunittb/cu
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:30:06 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:30:06 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:31:41 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:31:41 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:32:55 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:32:55 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 25 ns  Iteration: 1  Instance: /controlunittb/cu
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:40:08 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:40:08 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 25 ns  Iteration: 1  Instance: /controlunittb/cu
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 25 ns  Iteration: 1  Instance: /controlunittb/cu
+# Break in Process line__46 at D:/PR/VHDLP1/code/ControlUnit.vhd line 91
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# Break in Process line__46 at D:/PR/VHDLP1/code/ControlUnit.vhd line 90
+# WARNING: No extended dataflow license exists
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:46:52 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:46:52 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# Break in Process line__47 at D:/PR/VHDLP1/code/ControlUnit.vhd line 90
+run 
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+# Break in Process line__47 at D:/PR/VHDLP1/code/ControlUnit.vhd line 91
+run 60ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:52:44 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 16:52:44 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 75ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 16:58:00 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 16:58:01 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+restarr
+# invalid command name "restarr"
+
+restart -f 105
+# Warning: Invalid arguments '105' to restart ignored.
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.memory(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+restart -f 
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:07:00 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 17:07:00 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:07:04 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(110): near "PROCESS": (vcom-1576) expecting IF.
+# End time: 17:07:04 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:07:25 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(34): Variable declaration 'currentCommand' not allowed in this region.
+# ** Note: D:/PR/VHDLP1/code/ControlUnit.vhd(111): VHDL Compiler exiting
+# End time: 17:07:25 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# C:/intelFPGA/20.1/modelsim_ase/win32aloem/vcom failed.
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:08:12 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 17:08:12 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.memory(bhv)
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+# Warning in wave window restart: (vish-4014) No objects found matching '/controlunittb/cu/currentCommand'. 
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:34:37 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:34:37 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:34:39 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(33): near ")": (vcom-1576) expecting IDENTIFIER.
+# End time: 17:34:40 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:34:48 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(124): near "'": syntax error
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(148): near "when": (vcom-1576) expecting END.
+# End time: 17:34:48 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:35:23 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(149): near "IF": (vcom-1576) expecting CASE.
+# ** Error: D:/PR/VHDLP1/code/ControlUnit.vhd(151): near "PROCESS": (vcom-1576) expecting IF.
+# End time: 17:35:23 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:35:55 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 17:35:55 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:36:30 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading entity OutputHex
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# End time: 17:36:31 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunittb(bhv)
+# Loading work.outputhex(bhv)
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+add wave -position end  sim:/controlunittb/OutH/oHexOut
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:37:09 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 17:37:09 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.memory(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 105ns
+add wave -position 38  sim:/controlunittb/cu/oHexLatch
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /controlunittb/alu/oAlu(3 downto 0) has no driver.
+# This port will contribute value (UUUU) to the signal network.
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:40:16 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 17:40:16 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(bhv)
+run 105ns
+add wave -position 41  sim:/controlunittb/alu/oAlu
+add wave -position end  sim:/controlunittb/alu/iOAL
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 17:42:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CLK
+# -- Compiling architecture Bhv of CLK
+# End time: 17:42:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 17:42:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(53): (vcom-1141) Identifier "CLK" does not identify a component declaration.
+# -- Loading entity memory
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(58): (vcom-1141) Identifier "memory" does not identify a component declaration.
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ProgramCounter
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(70): (vcom-1141) Identifier "ProgramCounter" does not identify a component declaration.
+# -- Loading entity OutputHex
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(90): (vcom-1141) Identifier "OutputHex" does not identify a component declaration.
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(95): VHDL Compiler exiting
+# End time: 17:42:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/main.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/main.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity main
+# -- Compiling architecture logic of main
+# -- Loading entity CPU
+# ** Error (suppressible): D:/PR/VHDLP1/code/main.vhd(31): (vcom-1141) Identifier "CPU" does not identify a component declaration.
+# ** Note: D:/PR/VHDLP1/code/main.vhd(34): VHDL Compiler exiting
+# End time: 17:42:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 17:42:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:42:19 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ProgramCounter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:19 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ProgramCounter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ProgramCounter
+# -- Compiling architecture Bhv of ProgramCounter
+# End time: 17:42:19 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/Reg.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:19 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Reg
+# -- Compiling architecture Bhv of Reg
+# End time: 17:42:19 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:42:22 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading entity OutputHex
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# End time: 17:42:22 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# Loading work.controlunittb(bhv)
+# Loading work.memory(bhv)
+# Loading work.outputhex(bhv)
+# Loading work.controlunit(bhv)
+# Loading work.programcounter(bhv)
+# Loading work.alu(bhv)
+run 105ns
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 55 ns  Iteration: 2  Instance: /controlunittb/alu
+# Printing not supported.
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:44:06 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 17:44:06 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.alu(bhv)
+run 105ns
+restart -f
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:46:56 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/controlUnitTB.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity ControlUnitTB
+# -- Compiling architecture Bhv of ControlUnitTB
+# -- Loading entity memory
+# -- Loading entity OutputHex
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# End time: 17:46:56 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# Loading work.controlunittb(bhv)
+run 105ns
+restart -f
+run 105ns
+# Break in Process line__43 at D:/PR/VHDLP1/code/OutputHex.vhd line 45
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:53:01 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 17:53:01 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:53:08 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:53:08 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# Loading work.memory(bhv)
+# Loading work.outputhex(bhv)
+run 105ns
+# Break in Process line__43 at D:/PR/VHDLP1/code/OutputHex.vhd line 46
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:55:35 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:55:36 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+restart -f
+
+# Loading work.outputhex(bhv)
+run 105ns
+# Break in Process line__43 at D:/PR/VHDLP1/code/OutputHex.vhd line 46
+run -continue
+# Break in Process line__43 at D:/PR/VHDLP1/code/OutputHex.vhd line 46
+run -continue
+# Break in Process line__43 at D:/PR/VHDLP1/code/OutputHex.vhd line 46
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:57:16 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CLK
+# -- Compiling architecture Bhv of CLK
+# End time: 17:57:16 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:57:19 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:57:19 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# Loading work.outputhex(bhv)
+run 105ns
+# Break in Process line__43 at D:/PR/VHDLP1/code/OutputHex.vhd line 46
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:58:50 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# ** Error: D:/PR/VHDLP1/code/OutputHex.vhd(52): Cannot read output "oHexOut".
+# 	VHDL 2008 allows reading outputs.
+# 	This facility is enabled by compiling with -2008.
+# ** Note: D:/PR/VHDLP1/code/OutputHex.vhd(53): VHDL Compiler exiting
+# End time: 17:58:50 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:59:06 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:59:07 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+restart -f
+# Loading work.outputhex(bhv)
+run 105ns
+# Break in Process line__44 at D:/PR/VHDLP1/code/OutputHex.vhd line 46
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 17:59:17 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 17:59:17 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:10:15 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(65): (vcom-1141) Identifier "CLK" does not identify a component declaration.
+# -- Loading entity memory
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(70): (vcom-1141) Identifier "memory" does not identify a component declaration.
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(81): (vcom-1141) Identifier "ControlUnit" does not identify a component declaration.
+# -- Loading entity ProgramCounter
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(100): (vcom-1141) Identifier "ProgramCounter" does not identify a component declaration.
+# -- Loading entity ALU
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(108): (vcom-1141) Identifier "ALU" does not identify a component declaration.
+# -- Loading entity OutputHex
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(137): (vcom-1141) Identifier "OutputHex" does not identify a component declaration.
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(142): VHDL Compiler exiting
+# End time: 18:10:15 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:13 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 18:16:13 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:13 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CLK
+# -- Compiling architecture Bhv of CLK
+# End time: 18:16:13 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:13 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 18:16:13 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:13 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(65): (vcom-1141) Identifier "CLK" does not identify a component declaration.
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(142): VHDL Compiler exiting
+# End time: 18:16:13 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/main.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:13 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/main.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity main
+# -- Compiling architecture logic of main
+# -- Loading entity CPU
+# ** Error (suppressible): D:/PR/VHDLP1/code/main.vhd(31): (vcom-1141) Identifier "CPU" does not identify a component declaration.
+# ** Note: D:/PR/VHDLP1/code/main.vhd(34): VHDL Compiler exiting
+# End time: 18:16:13 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:13 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 18:16:13 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:14 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 18:16:14 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ProgramCounter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:14 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ProgramCounter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ProgramCounter
+# -- Compiling architecture Bhv of ProgramCounter
+# End time: 18:16:14 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/Reg.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:14 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Reg
+# -- Compiling architecture Bhv of Reg
+# End time: 18:16:14 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:28 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ALU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ALU
+# -- Compiling architecture BHV of ALU
+# End time: 18:16:29 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:30 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CLK
+# -- Compiling architecture Bhv of CLK
+# End time: 18:16:31 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:33 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 18:16:33 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:16:35 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(65): (vcom-1141) Identifier "CLK" does not identify a component declaration.
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(142): VHDL Compiler exiting
+# End time: 18:16:35 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:00 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CLK.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CLK
+# -- Compiling architecture Bhv of CLK
+# End time: 18:17:00 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:03 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 18:17:03 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:04 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# ** Error: D:/PR/VHDLP1/code/CPU.vhd(65): Expanded name prefix "CLK" is allowed only within the construct itself.
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(65): (vcom-1195) Cannot find expanded name "CLK.memory".
+# ** Error: D:/PR/VHDLP1/code/CPU.vhd(65): Unknown expanded name.
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(142): VHDL Compiler exiting
+# End time: 18:17:05 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:07 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# ** Error: D:/PR/VHDLP1/code/CPU.vhd(65): Expanded name prefix "CLK" is allowed only within the construct itself.
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(65): (vcom-1195) Cannot find expanded name "CLK.memory".
+# ** Error: D:/PR/VHDLP1/code/CPU.vhd(65): Unknown expanded name.
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(142): VHDL Compiler exiting
+# End time: 18:17:07 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 3, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:19 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# ** Error: (vcom-11) Could not find work.clock.
+# ** Error (suppressible): D:/PR/VHDLP1/code/CPU.vhd(65): (vcom-1195) Cannot find expanded name "work.clock".
+# ** Error: D:/PR/VHDLP1/code/CPU.vhd(65): Unknown expanded name.
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# ** Note: D:/PR/VHDLP1/code/CPU.vhd(142): VHDL Compiler exiting
+# End time: 18:17:20 on Aug 06,2023, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:27 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity CLK
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# End time: 18:17:27 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:30 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/memory.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memory
+# -- Compiling architecture Bhv of memory
+# End time: 18:17:30 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:32 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 18:17:32 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ProgramCounter.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:33 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ProgramCounter.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ProgramCounter
+# -- Compiling architecture Bhv of ProgramCounter
+# End time: 18:17:33 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/Reg.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:35 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/Reg.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity Reg
+# -- Compiling architecture Bhv of Reg
+# End time: 18:17:35 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:40 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity memoryTestBench
+# -- Compiling architecture Bhv of memoryTestBench
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(17): near "OUT": (vcom-1576) expecting STRING or IDENTIFIER or << or '('.
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(18): near "OUT": (vcom-1576) expecting STRING or IDENTIFIER or << or '('.
+# -- Loading entity CPU
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(24): (vcom-1136) Unknown identifier "HEX0".
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(25): (vcom-1136) Unknown identifier "HEX1".
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(26): (vcom-1035) Formal port "iReset" has OPEN or no actual associated with it.
+# ** Note: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(32): VHDL Compiler exiting
+# End time: 18:17:40 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:17:58 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPUTestBench
+# -- Compiling architecture Bhv of CPUTestBench
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(17): near "OUT": (vcom-1576) expecting STRING or IDENTIFIER or << or '('.
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(18): near "OUT": (vcom-1576) expecting STRING or IDENTIFIER or << or '('.
+# -- Loading entity CPU
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(24): (vcom-1136) Unknown identifier "HEX0".
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(25): (vcom-1136) Unknown identifier "HEX1".
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(26): (vcom-1035) Formal port "iReset" has OPEN or no actual associated with it.
+# ** Note: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(32): VHDL Compiler exiting
+# End time: 18:17:58 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:18:03 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPUTestBench
+# -- Compiling architecture Bhv of CPUTestBench
+# -- Loading entity CPU
+# ** Error: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(26): (vcom-1035) Formal port "iReset" has OPEN or no actual associated with it.
+# ** Note: D:/PR/VHDLP1/code/sim/CPUTestBench.vhd(32): VHDL Compiler exiting
+# End time: 18:18:03 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:18:15 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/sim/CPUTestBench.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPUTestBench
+# -- Compiling architecture Bhv of CPUTestBench
+# -- Loading entity CPU
+# End time: 18:18:15 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim -gui work.cputestbench
+# End time: 18:18:31 on Aug 06,2023, Elapsed time: 3:46:05
+# Errors: 0, Warnings: 0
+# vsim -gui work.cputestbench 
+# Start time: 18:18:31 on Aug 06,2023
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading work.cputestbench(bhv)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.cpu(bhv)
+# Loading work.clk(bhv)
+# Loading work.memory(bhv)
+# Loading work.controlunit(bhv)
+# Loading work.programcounter(bhv)
+# Loading work.alu(bhv)
+# Loading work.outputhex(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+add wave -position end  sim:/cputestbench/CPU/cl
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: 1paul  Hostname: DESKTOP-509JTUI  ProcessID: 20520
+#           Attempting to use alternate WLF file "./wlftqqn4je".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftqqn4je
+run  105ns
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 5 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 15 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 25 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 35 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 45 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 55 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 65 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 75 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 85 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 95 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+# ** Warning: NUMERIC_STD."=": metavalue detected, returning FALSE
+#    Time: 105 ns  Iteration: 1  Instance: /cputestbench/CPU/CpuCLK
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:19:53 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/CPU.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity CPU
+# -- Compiling architecture Bhv of CPU
+# -- Loading entity memory
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Loading entity ControlUnit
+# -- Loading entity ProgramCounter
+# -- Loading entity ALU
+# -- Loading entity OutputHex
+# End time: 18:19:53 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.cpu(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+add wave -position end  sim:/cputestbench/CPU/cpuBus
+add wave -position end  sim:/cputestbench/CPU/cu/CLK
+add wave -position end  sim:/cputestbench/CPU/cu/currentInst
+add wave -position end  sim:/cputestbench/CPU/cu/instructionIn
+add wave -position end  sim:/cputestbench/CPU/cu/MemAdressLatch
+add wave -position end  sim:/cputestbench/CPU/cu/MEMIN
+add wave -position end  sim:/cputestbench/CPU/cu/MemOut
+add wave -position end  sim:/cputestbench/CPU/cu/oHexLatch
+add wave -position end  sim:/cputestbench/CPU/cu/oLDA
+add wave -position end  sim:/cputestbench/CPU/cu/oLDB
+add wave -position end  sim:/cputestbench/CPU/cu/oOAL
+add wave -position end  sim:/cputestbench/CPU/cu/ooAR
+add wave -position end  sim:/cputestbench/CPU/cu/oSUB
+add wave -position end  sim:/cputestbench/CPU/cu/PCLatch
+add wave -position end  sim:/cputestbench/CPU/cu/PCOut
+add wave -position end  sim:/cputestbench/CPU/al/oAlu
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+add wave -position end  sim:/cputestbench/CPU/HexConv1/oHexOut
+add wave -position end  sim:/cputestbench/HEX1
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+add wave -position end  sim:/cputestbench/CPU/HexConv1/h
+# WARNING: No extended dataflow license exists
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+# Can't move the Now cursor.
+add wave -position end  sim:/cputestbench/CPU/cl
+add wave -position end  sim:/cputestbench/CPU/cu/CLK
+add wave -position end  sim:/cputestbench/CPU/cu/currentInst
+add wave -position end  sim:/cputestbench/CPU/cu/instructionIn
+add wave -position end  sim:/cputestbench/CPU/cu/MemAdressLatch
+add wave -position end  sim:/cputestbench/CPU/cu/MEMIN
+add wave -position end  sim:/cputestbench/CPU/cu/MemOut
+add wave -position end  sim:/cputestbench/CPU/cu/oHexLatch
+add wave -position end  sim:/cputestbench/CPU/cu/oLDA
+add wave -position end  sim:/cputestbench/CPU/cu/oLDB
+add wave -position end  sim:/cputestbench/CPU/cu/oOAL
+add wave -position end  sim:/cputestbench/CPU/cu/ooAR
+add wave -position end  sim:/cputestbench/CPU/cu/oSUB
+add wave -position end  sim:/cputestbench/CPU/cu/PCLatch
+add wave -position end  sim:/cputestbench/CPU/cu/PCOut
+add wave -position end  sim:/cputestbench/CPU/HexConv1/h
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105nms
+# Invalid time value: 105nms
+run 105ns
+add wave -position end  sim:/cputestbench/HEX1
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+add wave -position end  sim:/cputestbench/HEX0
+r
+# ambiguous command name "r": radiobutton radix raise random_image range rankfile_image read readEvcdFile read_vlog_optionfile readers readmapfile really_quit really_restart record_sc_all_option record_sc_other_option regexp region_image registry regsub remove_cr rename resetGlobalEvcd resetTime resolveBusMember restart restartCmd restartDone restartError restartParse restore results_image resultsdir_image resultsdirne_image resultsfile_image resume return right rincr rmdb rmdb_image rmlmap run runIntHandler runStatus
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:31:18 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/OutputHex.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Compiling entity OutputHex
+# -- Compiling architecture Bhv of OutputHex
+# End time: 18:31:18 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.outputhex(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+add wave -position end  sim:/cputestbench/CPU/HexConv1/inp
+run 105ns
+add wave -position end  sim:/cputestbench/CPU/cpuBus
+add wave -position end  sim:/cputestbench/CPU/al/AReg
+add wave -position end  sim:/cputestbench/CPU/al/BReg
+add wave -position end  sim:/cputestbench/CPU/al/iA
+add wave -position end  sim:/cputestbench/CPU/al/iB
+add wave -position end  sim:/cputestbench/CPU/al/iCLK
+add wave -position end  sim:/cputestbench/CPU/al/iLDA
+add wave -position end  sim:/cputestbench/CPU/al/iLDB
+add wave -position end  sim:/cputestbench/CPU/al/iOAL
+add wave -position end  sim:/cputestbench/CPU/al/ioAR
+add wave -position end  sim:/cputestbench/CPU/al/iSUB
+add wave -position end  sim:/cputestbench/CPU/al/oA
+add wave -position end  sim:/cputestbench/CPU/al/oAlu
+restart .f
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105ns
+add wave -position end  sim:/cputestbench/CPU/ALUALReg
+add wave -position end  sim:/cputestbench/CPU/OAL
+add wave -position end  sim:/cputestbench/CPU/oAR
+add wave -position end  sim:/cputestbench/CPU/OutputMem
+vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 18:47:33 on Aug 06,2023
+# vcom -reportprogress 300 -work work D:/PR/VHDLP1/code/ControlUnit.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package NUMERIC_STD
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity ControlUnit
+# -- Compiling architecture BHV of ControlUnit
+# End time: 18:47:33 on Aug 06,2023, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.controlunit(bhv)
+# ** Warning: (vsim-8683) Uninitialized out port /cputestbench/CPU/HEX1(6 downto 0) has no driver.
+# This port will contribute value (UUUUUUU) to the signal network.
+run 105n
+# Invalid time value: 105n
+run 105ns

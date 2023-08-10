@@ -1,0 +1,293 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -4.583
+TNS   : -123.643
+
+Type  : Slow 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : -4.113
+TNS   : -31.728
+
+Type  : Slow 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -2.934
+TNS   : -13.940
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -2.707
+TNS   : -89.652
+
+Type  : Slow 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -2.670
+TNS   : -18.024
+
+Type  : Slow 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -2.531
+TNS   : -15.432
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -3.671
+TNS   : -3.671
+
+Type  : Slow 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -0.425
+TNS   : -0.425
+
+Type  : Slow 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -0.406
+TNS   : -0.515
+
+Type  : Slow 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -0.134
+TNS   : -0.181
+
+Type  : Slow 1100mV 85C Model Hold 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : 0.038
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.350
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -2.174
+TNS   : -83.544
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.422
+TNS   : -18.429
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -0.394
+TNS   : -2.176
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -0.394
+TNS   : -2.127
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.260
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Setup 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -4.460
+TNS   : -122.118
+
+Type  : Slow 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : -4.206
+TNS   : -31.945
+
+Type  : Slow 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -2.979
+TNS   : -14.042
+
+Type  : Slow 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -2.691
+TNS   : -18.193
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.671
+TNS   : -88.935
+
+Type  : Slow 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -2.557
+TNS   : -15.427
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -3.484
+TNS   : -3.484
+
+Type  : Slow 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -0.419
+TNS   : -0.535
+
+Type  : Slow 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -0.414
+TNS   : -0.414
+
+Type  : Slow 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -0.124
+TNS   : -0.150
+
+Type  : Slow 1100mV 0C Model Hold 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : 0.093
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -2.174
+TNS   : -83.174
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.444
+TNS   : -19.792
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -0.394
+TNS   : -2.140
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -0.394
+TNS   : -2.103
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.319
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Setup 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -2.581
+TNS   : -68.738
+
+Type  : Fast 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : -2.310
+TNS   : -16.090
+
+Type  : Fast 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -1.488
+TNS   : -6.316
+
+Type  : Fast 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -1.370
+TNS   : -8.678
+
+Type  : Fast 1100mV 85C Model Setup 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -1.252
+TNS   : -7.165
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -1.190
+TNS   : -38.524
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -2.161
+TNS   : -2.161
+
+Type  : Fast 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -0.416
+TNS   : -0.582
+
+Type  : Fast 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -0.412
+TNS   : -1.081
+
+Type  : Fast 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -0.253
+TNS   : -0.545
+
+Type  : Fast 1100mV 85C Model Hold 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -0.132
+TNS   : -0.241
+
+Type  : Fast 1100mV 85C Model Hold 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.151
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -2.174
+TNS   : -68.075
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.450
+TNS   : -3.585
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : 0.098
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : 0.113
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : 0.373
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -2.237
+TNS   : -61.235
+
+Type  : Fast 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : -2.205
+TNS   : -14.941
+
+Type  : Fast 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -1.376
+TNS   : -5.679
+
+Type  : Fast 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -1.260
+TNS   : -7.830
+
+Type  : Fast 1100mV 0C Model Setup 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -1.149
+TNS   : -6.532
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -1.035
+TNS   : -33.636
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -2.037
+TNS   : -2.037
+
+Type  : Fast 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : -0.399
+TNS   : -1.260
+
+Type  : Fast 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : -0.393
+TNS   : -0.551
+
+Type  : Fast 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : -0.243
+TNS   : -0.621
+
+Type  : Fast 1100mV 0C Model Hold 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -0.128
+TNS   : -0.290
+
+Type  : Fast 1100mV 0C Model Hold 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.156
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CPU:cp|CLK:CpuCLK|ledSignal'
+Slack : -2.174
+TNS   : -67.944
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.455
+TNS   : -3.542
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|ooAR'
+Slack : 0.106
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|oOAL'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemOut'
+Slack : 0.390
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CPU:cp|ControlUnit:cu|MemAdressLatch'
+Slack : 0.407
+TNS   : 0.000
+
+------------------------------------------------------------
