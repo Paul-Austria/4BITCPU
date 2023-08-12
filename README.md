@@ -2,7 +2,7 @@
 
 The goal of this project was to implement a simple CPU to learn VHDL and FPGA programming.
 
-This project implements a very simple 4 BIT CPU that can run on the Terasic DE1-SOC board.
+This project implements a very simple 4 BIT CPU, based on the SAP-1 that can run on the Terasic DE1-SOC board.
 THE CPU has 16 Byte of RAM and a 4 BIT ALU.
 
 IT currently offers 5 Commands, more can easily be added to the Control unit:
